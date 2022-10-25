@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(14, 16, 170);
+    color: white;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.ul{
+color: white;
+text-decoration: none;
+list-style: none;
+background-color: rgb(237, 16, 16);
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 20px;
+}
+
+.photoh1{
+    margin: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.images img{
+    /* padding-left: 20px; */
+    width: 60vw;
+    height: 80vw;
+    margin: 20px;
+    /* padding-left: 10px; */
+}
+
+.ballonDor{
+width: 80vw;
+height: 50vw;
+}
+
+.trophies{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    font-size: 14px;
+
+}
+
+.resume{
+   margin: 30px;
+}
+ 
+a{
+text-decoration: none;
+color: white;
+}
+
+.about-messi{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
